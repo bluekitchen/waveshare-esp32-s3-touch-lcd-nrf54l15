@@ -1,0 +1,28 @@
+# KiCad backup & autosave files
+*.bak
+*-autosave.kicad_sch
+*-autosave.kicad_pcb
+*.tmp
+*.~*
+
+# Local user settings
+*.kicad_prl
+
+# Generated output
+*.net
+*.xml
+*.csv
+*.log
+*.html
+*.pdf
+*.pos
+*.bom
+*.gbr
+*.drl
+*.zip
+
+# Cache and other build-related
+__pycache__/
+build/
+gerber/
+fabrication/
